@@ -1,0 +1,72 @@
+body{
+    background: url('kolanut.jpg');
+    background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center;
+  
+}
+.container {
+  background: rgb(222, 241, 15);
+    width: 70vw;
+    height: 840px;
+    margin-left: auto;
+    margin-right: auto;
+    background-attachment: fixed;
+}
+.heading-one {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.italic {
+    text-align: center;
+    font-style: italic;
+}
+.figure-one {
+    text-align: center;
+}
+.figure-two {
+    text-align: center;
+}
+.div-two {
+    position: absolute;
+    right: 40px;
+    top:250px;
+    float: right;
+    margin-right: 180px;
+}
+.div-four {
+    position: absolute;
+    right: 40px;
+    top: 560px;
+    float: right;
+    margin-right: 180px;
+}
+div {
+    font-family: monospace;
+    font-size: 15px;
+}
+a {
+    display: block;
+    text-align: center;
+    color: #000;
+    margin-bottom: 50px;
+   
+}
+a:hover {
+    color: red;
+}
+.last-div {
+    text-align: center;
+}
+h2 {
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.centrr-img {
+    position: relative;
+    left: 250px;
+    margin-bottom: 40px;
+    top: 20px;
+}
